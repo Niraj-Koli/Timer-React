@@ -2,6 +2,9 @@
 
 Made a timer using react and added some use of state.
 
+![1](https://github.com/Niraj-Koli/Timer-React/assets/113058131/c9fce5f3-8642-49cb-8ec0-22c682f05e7a)
+![2](https://github.com/Niraj-Koli/Timer-React/assets/113058131/75deeb75-1791-4c8f-9b9a-c6f5c1e3b0e1)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
