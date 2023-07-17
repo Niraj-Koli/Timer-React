@@ -1,0 +1,19 @@
+body {
+    background: #30d5c8;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 80px;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+    color: black;
+}
+
+button {
+    padding: 15px 20px;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 20px;
+    background: #ff7f50;
+}
