@@ -1,3 +1,7 @@
+# Timer - React
+
+Made a timer using react and added some use of state.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
